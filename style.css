@@ -13,6 +13,11 @@ body {
     margin: 0 auto;
 }
 
+a{
+    text-decoration: none;
+    color: #333;
+}
+
 header {
     background-color: #c7cc19;
     color: #fff;
